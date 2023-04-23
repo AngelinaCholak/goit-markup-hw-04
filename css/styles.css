@@ -373,11 +373,11 @@ background-color: var(--presse-state);
     color: var(--subtle-text);
 
 }
-.customers-link :hover{
+.customers-link:hover {
     border-color: #404bbf;
     color: #404bbf;
 }
-.customers-link :focus{
+.customers-link:focus {
     border-color: #404bbf;
     color: #404bbf;
 
