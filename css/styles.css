@@ -329,11 +329,11 @@ background-color: var(--presse-state);
     align-items: center;
     justify-content: center;
 }
-.ellipse-a :hover{
-    background-color: var(--presse-state);
+.ellipse-a:hover{
+    background-color: #404bbf;
 }
-.ellipse-a :focus{
-    background-color: var(--presse-state);
+.ellipse-a:focus{
+    background-color: #404bbf;
 
 }
 .svg-ellipse{
