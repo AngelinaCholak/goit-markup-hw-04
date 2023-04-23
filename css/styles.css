@@ -13,6 +13,8 @@
         --modal-background: #FCFCFC;
         --border:#e7e9fc;
         --fill:currentColor;
+        --color: #FFFFFF;
+
 
 
 }
@@ -391,6 +393,13 @@ footer{
     background-color: var(--hero-background);
     padding: 100px 0;
 }
+.footer-div{
+    display: flex;
+    align-items: baseline,
+}
+.footer-text{
+    margin-right: 120px
+}
 .span{
     color:var(--light)
 }
@@ -405,7 +414,23 @@ footer{
     line-height: 24px;
 }
    
+.media-text{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--color);
+    margin-bottom: 16px;
+}
+.media-list{
+    display: flex;
+    gap: 16px;
 
+}
+.media-element{
+    width: 40px;
+    height: 40px;
+}
 
 /* portfolio*/
 
