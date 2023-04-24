@@ -394,13 +394,14 @@ footer{
     padding: 100px 0;
 }
 .footer-div{
+
 margin-right: 120px;
-    
 }
 .footer-text{
-    margin-right: 120px;
+   
     display: flex;
-    align-items: baseline,
+    align-items: baseline;
+
    
     
 }
