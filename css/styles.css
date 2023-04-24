@@ -162,7 +162,7 @@ color: var(--presse-state);
     background-position: center;
     background-size: cover;
     background-color: var(--hero-background);
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people/people.png);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people/people.jpg);
    
     
 }
