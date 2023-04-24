@@ -450,10 +450,10 @@ margin-right: 120px;
     align-items: center;
     justify-content: center;
 }
-.ellipse-aa :hover{
+.ellipse-aa:hover{
     background-color: #31d0aa;
 }
-.ellipse-aa :focus{
+.ellipse-aa:focus{
     background-color: #31d0aa;
 }
 
